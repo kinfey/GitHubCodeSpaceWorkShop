@@ -15,7 +15,7 @@
 1. 什么是 GitHub Codespaces ？
 2. 如何使用 GitHub Codespaces ？
 3. 通过 GitHub Codespaces 的模版构建你的 Python 项目
-4. 通过 GitHub Codespaces 的空模版构建你的 Rust 项目
+4. 通过 GitHub Codespaces 的空模版构建你的 .NET 项目
 
 学习时间： 40 min
 
