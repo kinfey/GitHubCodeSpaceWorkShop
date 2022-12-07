@@ -1,5 +1,9 @@
 # **GitHub Codespaces Workshop**
 
+<div style="text-align:center">
+<img src="./imgs/logo.png"/>
+</div>
+
 大家好，这是基于 GitHub Codespaces 的线上 Workshop，希望通过结合不同的内容告诉大家如何应用 GitHub Codespaces ，如何结合 GitHub Codespaces 作为自己的学习编程语言的平台，还有通过 GitHub Codespaces 维护你的项目等内容。
 
 
