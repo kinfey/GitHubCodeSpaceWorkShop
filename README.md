@@ -23,7 +23,7 @@
 学习编程语言是开启编程之路上非常重要的一步，我们在学习编程语言时，我们必须要安装不同的环境包括 SDK，包括一些库，以及 IDE 上的插件等。这会占用我们非常大的时间。有时候你会遇到各种不兼容的内容，这个时候我们就可以结合 GitHub Codespace 启动一个开箱即用的开发环境，让作为初学者的你快速进入到编程中，体验不同编程语言的编程乐趣。通过本章学习你可以掌握以下内容：
 
 1. 通过 GitHub Codespace 学习 .NET （<a href="./01.LearnCSharp.md">点击进入学习</a>）
-2. 通过 GitHub Codespace 学习 Java （<a href="./02.LearnJava.md">点击进入学习</a>）
+2. 通过 GitHub Codespace 学习 Java （<a href="./01.LearnJava.md">点击进入学习</a>）
 3. 通过 GitHub Codespace 学习 Python(更新ing)
 4. 通过 GitHub Codespace 学习 Rust(更新ing)
 5. 通过 GitHub Codespace 学习 Go(更新ing）
