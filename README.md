@@ -36,7 +36,14 @@
 学习时间： 180 min
 
 
+## **通过 GitHub Codespaces 做云原生应用**
 
-## **通过 GitHub Codespaces 做云原生应用(更新 ing)**
+在 GitHub Codespaces 直接可以开发和维护云原生的项目，针对企业开发，以及创业团队通过 GitHub Codespaces 可以打通任意云平台的开发。本次系列会通过几个例子引导大家通过 GitHub Codespaces 做云原生项目的开发和维护。
+
+1. 配置 GitHub Codespaces 上的云原生开发环境 （<a href="./02.CloudNativeEnv.md">点击进入学习</a>）
+2. 通过 GitHub Codespaces 打造一个 Azure Static Web App 和 Azure Function 结合的应用 
+3. 通过 GitHub Codespaces 打造一个 Dapr 的应用
+4. 用 Rust 开发一个 WasmEdge 的应用 (更新ing)
+
 ## **通过 GitHub Codespaces 做机器学习(更新 ing)**
 ## **通过 GitHub Codespaces 维护你的项目(更新 ing)**
