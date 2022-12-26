@@ -45,5 +45,8 @@
 3. 通过 GitHub Codespaces 打造一个 Dapr 的应用 （<a href="./02.CloudNativeInDapr.md">点击进入学习</a>）
 4. 用 Rust 开发一个 WasmEdge 的应用 (更新ing)
 
+
+学习时间： 120 min
+
 ## **通过 GitHub Codespaces 做机器学习(更新 ing)**
 ## **通过 GitHub Codespaces 维护你的项目(更新 ing)**
