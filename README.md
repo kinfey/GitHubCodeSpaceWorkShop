@@ -54,6 +54,9 @@
 
 1. 配置 GitHub Codespaces 上的机器学习开发环境(<a href="./03.MLEnv.md">点击进入学习</a>）
 2. 打通 Azure Machine Learning 的能力(<a href="./03.MLwithAzure.md">点击进入学习</a>）
-3. 完成 MLOps 的开发技巧(<a href="./04.MLwithMLOps.md">点击进入学习</a>）
+3. 完成 MLOps 的开发技巧(<a href="./03.MLwithMLOps.md">点击进入学习</a>）
+
+
+学习时间： 120 min
 
 ## **通过 GitHub Codespaces 维护你的项目(更新 ing)**
