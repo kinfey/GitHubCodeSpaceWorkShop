@@ -48,5 +48,12 @@
 
 学习时间： 120 min
 
-## **通过 GitHub Codespaces 做机器学习(更新 ing)**
+## **通过 GitHub Codespaces 做机器学习**
+
+机器学习是现在非常火热的技术， GitHub Codespaces 给机器学习带来非常好的技术支持，我们通过 GitHub Codespaces 可以很好地编写机器学习，也可以和 Azure Machine Learning Service 打通，让大家能更好地利用云端资源完成相关的机器学习项目。本系列会介绍大家如何使用 GitHub Codespaces 完成机器学习的相关知识。
+
+1. 配置 GitHub Codespaces 上的机器学习开发环境(<a href="./03.MLEnv.md">点击进入学习</a>）
+2. 打通 Azure Machine Learning 的能力(<a href="./03.MLwithAzure.md">点击进入学习</a>）
+3. 完成 MLOps 的开发技巧(<a href="./04.MLwithMLOps.md">点击进入学习</a>）
+
 ## **通过 GitHub Codespaces 维护你的项目(更新 ing)**
