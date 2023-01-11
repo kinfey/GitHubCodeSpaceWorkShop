@@ -29,7 +29,7 @@
 1. 通过 GitHub Codespaces 学习 .NET （<a href="./01.LearnCSharp.md">点击进入学习</a>）
 2. 通过 GitHub Codespaces 学习 Java （<a href="./01.LearnJava.md">点击进入学习</a>）
 3. 通过 GitHub Codespaces 学习 Python(更新ing)
-4. 通过 GitHub Codespaces 学习 Rust(更新ing)
+4. 通过 GitHub Codespaces 学习 Rust（<a href="./01.LearnRust.md">点击进入学习</a>）
 5. 通过 GitHub Codespaces 学习 Go(更新ing）
 6. 通过 GItHub Codespaces 学习 NodeJS(更新ing)
 
