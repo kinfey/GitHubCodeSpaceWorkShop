@@ -54,4 +54,4 @@ Machine learning is a very hot technology now. GitHub Codespaces brings very goo
 
 Study time: 120 min
 
-## **Maintain your project via GitHub Codespaces (updateing)**
+## **Maintain your project via GitHub Codespaces (updating)**
