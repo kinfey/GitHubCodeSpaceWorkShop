@@ -4,7 +4,7 @@
 <img src="./imgs/logo.png"/>
 </div>
 
-Hello everyone, this is an online Workshop based on GitHub Codespaces. I hope to tell you how to use GitHub Codespaces by combining different content, how to combine GitHub Codespaces as your own platform for learning programming languages, and maintain your projects through GitHub Codespaces, etc.
+Hi everyone, this is an online Workshop based on GitHub Codespaces. I hope to tell you how to use GitHub Codespaces by combining different content, how to combine GitHub Codespaces as your own platform for learning programming languages, and maintain your projects through GitHub Codespaces, etc.
 
 ## **GitHub Codespaces Introduction**
 
@@ -44,14 +44,14 @@ In GitHub Codespaces, you can directly develop and maintain cloud-native project
 
 Learning time: 120 minutes
 
-## **Machine Learning via GitHub Codespaces (update ing)**
+## **Machine Learning via GitHub Codespaces**
 
 Machine learning is a very hot technology now. GitHub Codespaces brings very good technical support to machine learning. We can write machine learning well through GitHub Codespaces, and we can also connect with Azure Machine Learning Service so that everyone can make better use of it. Cloud resources to complete related machine learning projects. This series will introduce you how to use GitHub Codespaces to complete machine learning related knowledge.
 
-Configure the machine learning development environment on GitHub Codespaces (<a href="./03.MLEnv.md">click to learn</a>)
-The ability to get through Azure Machine Learning (<a href="./03.MLwithAzure.md">click to learn</a>)
-Complete the development skills of MLOps (<a href="./03.MLwithMLOps.md">click to learn</a>)
+1. Configure the machine learning development environment on GitHub Codespaces (<a href="./03.MLEnv.md">click to learn</a>)
+2. The ability to get through Azure Machine Learning (<a href="./03.MLwithAzure.md">click to learn</a>)
+3. Complete the development skills of MLOps (<a href="./03.MLwithMLOps.md">click to learn</a>)
 
 Study time: 120 min
 
-## **Maintain your project via GitHub Codespaces (update ing)**
+## **Maintain your project via GitHub Codespaces (updateing)**
