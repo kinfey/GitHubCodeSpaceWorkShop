@@ -27,9 +27,9 @@ Learning a programming language is a very important step on the road to programm
 1. Learn .NET via GitHub Codespaces (<a href="./01.LearnCSharp.md">click to learn</a>)
 2. Learn Java through GitHub Codespaces (<a href="./01.LearnJava.md">click to learn</a>)
 3. Learn Python with GitHub Codespaces (updating)
-4. Learn Rust with GitHub Codespaces (updating)
+4. Learn Rust with GitHub Codespaces (<a href="./01.LearnRust.md">click to learn</a>)
 5. Learning Go with GitHub Codespaces (updating)
-6. Learn NodeJS with GitHub Codespaces (updated)
+6. Learn NodeJS with GitHub Codespaces (updating)
 
 Learning time: 180 min
 
@@ -45,4 +45,13 @@ In GitHub Codespaces, you can directly develop and maintain cloud-native project
 Learning time: 120 minutes
 
 ## **Machine Learning via GitHub Codespaces (update ing)**
+
+Machine learning is a very hot technology now. GitHub Codespaces brings very good technical support to machine learning. We can write machine learning well through GitHub Codespaces, and we can also connect with Azure Machine Learning Service so that everyone can make better use of it. Cloud resources to complete related machine learning projects. This series will introduce you how to use GitHub Codespaces to complete machine learning related knowledge.
+
+Configure the machine learning development environment on GitHub Codespaces (<a href="./03.MLEnv.md">click to learn</a>)
+The ability to get through Azure Machine Learning (<a href="./03.MLwithAzure.md">click to learn</a>)
+Complete the development skills of MLOps (<a href="./03.MLwithMLOps.md">click to learn</a>)
+
+Study time: 120 min
+
 ## **Maintain your project via GitHub Codespaces (update ing)**
