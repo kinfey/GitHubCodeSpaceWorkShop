@@ -43,7 +43,7 @@
 1. 配置 GitHub Codespaces 上的云原生开发环境 （<a href="./02.CloudNativeEnv.md">点击进入学习</a>）
 2. 通过 GitHub Codespaces 打造一个 Azure Static Web App 和 Azure Function 结合的应用 （<a href="./02.CloudNativeInAzure.md">点击进入学习</a>）
 3. 通过 GitHub Codespaces 打造一个 Dapr 的应用 （<a href="./02.CloudNativeInDapr.md">点击进入学习</a>）
-4. 用 Rust 开发一个 WasmEdge 的应用 (更新ing)
+4. 用 Rust 开发一个 WasmEdge 的应用 （<a href="./02.CloudNativeInWasmEdge.md">点击进入学习</a>）
 
 
 学习时间： 120 min
