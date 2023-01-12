@@ -28,10 +28,10 @@ Learning a programming language is a very important step on the road to programm
 2. Learn Java through GitHub Codespaces (<a href="./01.LearnJava.md">click to learn</a>)
 3. Learn Python with GitHub Codespaces (updating)
 4. Learn Rust with GitHub Codespaces (<a href="./01.LearnRust.md">click to learn</a>)
-5. Learning Go with GitHub Codespaces (updating)
-6. Learn NodeJS with GitHub Codespaces (updating)
 
 Learning time: 180 min
+
+Level : 100
 
 ## **Do cloud-native applications through GitHub Codespaces**
 
@@ -40,9 +40,11 @@ In GitHub Codespaces, you can directly develop and maintain cloud-native project
 1. Configure the cloud native development environment on GitHub Codespaces (<a href="./02.CloudNativeEnv.md">click to learn</a>)
 2. Create an application combining Azure Static Web App and Azure Function through GitHub Codespaces (<a href="./02.CloudNativeInAzure.md">click to learn</a>)
 3. Build a Dapr application through GitHub Codespaces (<a href="./02.CloudNativeInDapr.md">click to learn</a>)
-4. Develop a WasmEdge application with Rust (updating)
+4. Develop a WasmEdge application with Rust (<a href="./02.CloudNativeInWasmEdge.md">click to learn</a>)
 
-Learning time: 120 minutes
+Learning time: 120 min
+
+Level : 200
 
 ## **Machine Learning via GitHub Codespaces**
 
@@ -53,5 +55,7 @@ Machine learning is a very hot technology now. GitHub Codespaces brings very goo
 3. Complete the development skills of MLOps (<a href="./03.MLwithMLOps.md">click to learn</a>)
 
 Study time: 120 min
+
+Level : 200
 
 ## **Maintain your project via GitHub Codespaces (updating)**
