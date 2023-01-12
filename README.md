@@ -35,6 +35,8 @@
 
 学习时间： 180 min
 
+在线学习视频：https://www.bilibili.com/video/BV1FG411K7zj
+
 
 ## **通过 GitHub Codespaces 做云原生应用**
 
@@ -48,6 +50,8 @@
 
 学习时间： 120 min
 
+在线学习视频：https://www.bilibili.com/video/BV1584y1x7Hm/ 
+
 ## **通过 GitHub Codespaces 做机器学习**
 
 机器学习是现在非常火热的技术， GitHub Codespaces 给机器学习带来非常好的技术支持，我们通过 GitHub Codespaces 可以很好地编写机器学习，也可以和 Azure Machine Learning Service 打通，让大家能更好地利用云端资源完成相关的机器学习项目。本系列会介绍大家如何使用 GitHub Codespaces 完成机器学习的相关知识。
@@ -58,5 +62,7 @@
 
 
 学习时间： 120 min
+
+在线学习视频：https://www.bilibili.com/video/BV1NM411a7CY/
 
 ## **通过 GitHub Codespaces 维护你的项目(更新 ing)**
